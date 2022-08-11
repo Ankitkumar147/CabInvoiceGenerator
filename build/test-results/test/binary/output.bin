@@ -1,0 +1,3 @@
+dist 2.0time5.0
+dist 0.1time1.0
+>inArray: Invoice [rideCount=2, totalFare=30.0, avgFare=15.0]
